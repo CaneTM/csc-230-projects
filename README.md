@@ -8,4 +8,16 @@ A calculator that reads and computes the result of an arithmetic expression (wit
 
 ## Project 3: ident
 
-A program searches for any occurrences of a given identifier
+A program that searches for any occurrences of a given identifier
+
+## Project 4: schedule
+
+A mock course registration system
+
+## Project 5: aes
+
+Performs a more lightweight version of AES encryption and decryption
+
+## Project 6: queue
+
+A simple queue data structure
