@@ -1,6 +1,6 @@
 # csc-230-projects
 
-A place for all the projects I did at NCSU for CSC 230 (C and Software Tools). 
+A place for all the projects I did for CSC 230 (C and Software Tools) at NCSU. 
 
 ## Project 2: infix
 
